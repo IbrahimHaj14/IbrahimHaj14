@@ -2,7 +2,7 @@
 
 I'm an AI Engineer finishing my MSc in Applied AI at WMG, University of Warwick, with a First Class BSc in Computer Science from Royal Holloway behind me.
 
-I build AI systems that people can actually trust and use, where explainability, deployment, and evaluation matter as much as the model itself. Most of my work sits at the intersection of machine learning and real-world engineering constraints: industrial predictive maintenance, medical imaging, vision-language models for defect detection.
+I build AI systems that people can actually trust and use, where explainability, deployment, and evaluation matter as much as the model itself. Most of my work combines machine learning and real-world engineering constraints: industrial predictive maintenance, medical imaging, vision-language models for defect detection.
 
 ---
 
