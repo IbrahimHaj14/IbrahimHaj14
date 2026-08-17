@@ -39,6 +39,6 @@ I build AI systems that people can actually trust and use, where explainability,
 ### 📫 Get in touch
 
 - 📧 i.elhajj@outlook.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/ibrahim-el-haj-830467174/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ibrahim-elhaj-830467174/)
 - 🎓 MSc Applied AI @ WMG, University of Warwick - graduating September 2026
 
