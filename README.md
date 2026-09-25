@@ -1,8 +1,8 @@
 # Hi, I'm Ibrahim 👋
 
-I'm an **AI Engineer** and recently completed my **MSc in Applied Artificial Intelligence at WMG, University of Warwick**, after graduating with a **First Class BSc in Computer Science from Royal Holloway, University of London**.
+I'm an **ML Engineer** and recently completed my  MSc in Applied Artificial Intelligence at WMG, University of Warwick, after graduating with a First Class BSc in Computer Science from Royal Holloway, University of London.
 
-I'm passionate about **AI, machine learning and data science**, and I enjoy taking an idea from a dataset or a problem and turning it into something that actually works. I'm particularly interested in the practical side of AI: building models, understanding the data behind them, evaluating results properly and putting them into useful applications.
+I'm passionate about **AI, machine learning and data science**, and I enjoy working from a complex dataset or a problem and turning it into real world value. I'm most interested in the practical side of AI: building models, understanding the data behind them, evaluating results properly and putting them into useful applications.
 
 I'm also interested in software engineering, especially Python, backend development and building reliable systems around AI.
 
