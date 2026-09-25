@@ -6,16 +6,15 @@ I'm passionate about **AI, machine learning and data science**, and I enjoy work
 
 I'm also interested in software engineering, especially Python, backend development and building reliable systems around AI.
 
-## What I enjoy working on
+## What I enjoy working on most
 
-- 🤖 Machine Learning and Deep Learning
-- 📊 Data Science, data analysis and visualisation
-- 🧠 Generative AI, LLMs and Vision-Language Models
-- 🔍 Explainable AI and model evaluation
-- ⚙️ Python, APIs and backend development
-- 🗄️ Data pipelines, SQL and databases
+- Data Science, data analysis and visualisation
+- Generative AI, LLMs and Vision-Language Models
+- Explainable AI and model evaluation
+- Python, APIs and backend development
+- Data pipelines, SQL and databases
 
-## Some of my projects
+## My Featured Projects
 
 ### [AI-Assisted Versioned Text Editor](https://github.com/IbrahimHaj14/Versioned-AI-Text-Editor)
 
